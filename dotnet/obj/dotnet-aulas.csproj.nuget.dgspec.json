@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/dotnet-aulas.csproj": {}
+    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\csharp-aulas\\dotnet\\dotnet-aulas.csproj": {}
   },
   "projects": {
-    "/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/dotnet-aulas.csproj": {
+    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\csharp-aulas\\dotnet\\dotnet-aulas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/dotnet-aulas.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\csharp-aulas\\dotnet\\dotnet-aulas.csproj",
         "projectName": "dotnet-aulas",
-        "projectPath": "/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/dotnet-aulas.csproj",
-        "packagesPath": "/home/gustavo/.nuget/packages/",
-        "outputPath": "/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/",
+        "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\csharp-aulas\\dotnet\\dotnet-aulas.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\csharp-aulas\\dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gustavo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

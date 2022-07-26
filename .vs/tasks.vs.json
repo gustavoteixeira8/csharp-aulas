@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Pessoa",
+      "appliesTo": "dotnet/Pessoa.cs",
+      "type": "launch"
+    }
+  ]
+}
