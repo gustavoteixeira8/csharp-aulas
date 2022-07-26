@@ -1,0 +1,15 @@
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/dotnet-aulas.csproj.AssemblyReference.cache
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/dotnet-aulas.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/dotnet-aulas.AssemblyInfoInputs.cache
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/dotnet-aulas.AssemblyInfo.cs
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/dotnet-aulas.csproj.CoreCompileInputs.cache
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/bin/Debug/net6.0/dotnet-aulas
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/bin/Debug/net6.0/dotnet-aulas.deps.json
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/bin/Debug/net6.0/dotnet-aulas.runtimeconfig.json
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/bin/Debug/net6.0/dotnet-aulas.dll
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/bin/Debug/net6.0/dotnet-aulas.pdb
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/dotnet-aulas.dll
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/refint/dotnet-aulas.dll
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/dotnet-aulas.pdb
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/dotnet-aulas.genruntimeconfig.cache
+/home/gustavo/Área de Trabalho/Aulas/dotnet-aulas/obj/Debug/net6.0/ref/dotnet-aulas.dll

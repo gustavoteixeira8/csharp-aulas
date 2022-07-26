@@ -1,0 +1,37 @@
+namespace dotnet_aulas;
+
+public class Program
+{
+    public static void Main() 
+    {
+        Person p1 = new Person() 
+        {
+            name = "Gustavo",
+            lastName = "Teixeira",
+            birthdate = 2003
+        };
+
+        Person p2 = new Person();
+
+        p2.name = "Ana";
+        p2.lastName = "C";
+        p2.birthdate = 2003;
+
+        Console.WriteLine($"Pessoa 1: {p1.name} {p1.lastName} / {p1.birthdate}");
+        p1.Cumprimentar();
+        Console.WriteLine("-------------");
+        Console.WriteLine($"Pessoa 2: {p2.name} {p2.lastName} / {p2.birthdate}");
+        p2.Cumprimentar();
+
+        var value = 50;
+
+        Console.WriteLine($"Antes do método: {value}");
+
+        p2.AumentarValoPorRef(ref value);
+
+        Console.WriteLine($"Depois do método: {value}");
+
+        p2.Cumprimentar("Nai");
+    }        
+}
+
