@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\bin\Debug\net6.0\ManipulacaoDeStrings.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\bin\Debug\net6.0\ManipulacaoDeStrings.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\bin\Debug\net6.0\ManipulacaoDeStrings.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\bin\Debug\net6.0\ManipulacaoDeStrings.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\bin\Debug\net6.0\ManipulacaoDeStrings.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ManipulacaoDeStrings.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ManipulacaoDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ManipulacaoDeStrings.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ManipulacaoDeStrings.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ManipulacaoDeStrings.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ManipulacaoDeStrings.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\refint\ManipulacaoDeStrings.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ManipulacaoDeStrings.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ManipulacaoDeStrings.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\csharp-aulas\ManipulacaoDeStrings\obj\Debug\net6.0\ref\ManipulacaoDeStrings.dll
