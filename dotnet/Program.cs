@@ -4,6 +4,7 @@ public class Program
 {
     public static void Main() 
     {
+        /*
         Person p1 = new Person()
         {
             name = "Gustavo",
@@ -37,6 +38,18 @@ public class Program
         Console.WriteLine(OtherMath.Subtract(50, 20));
 
         // MyDelegate.Exec();
+        */
+
+        TestWithGettersAndSetters t = new("Gustavo", "Teixeira");
+
+        Console.WriteLine(t.Name);
+        Console.WriteLine(t.Lastname);
+
+        t.Name = "Ana";
+        // t.Lastname = "C"; // Error
+
+        Console.WriteLine(t.Name);
+        Console.WriteLine(t.Lastname);
     }        
 }
 

@@ -54,3 +54,35 @@ public partial class OtherMath
         return n1 - n2;
     }
 }
+
+
+public class TestWithGettersAndSetters
+{
+	private string _name;
+	private string _lastname;
+	
+	public string Name 
+    { 
+		get { return _name; }
+		set 
+		{
+			if (string.IsNullOrEmpty(value))
+            {
+				return;
+            }
+			_name = value; 
+		}
+	}
+    
+    public string Lastname
+    {
+        get { return _lastname; }
+        // set { _lastname = value; } // Não é possível reatribuir o lastname
+    }
+
+    public TestWithGettersAndSetters(string name, string lastname)
+    {
+        _name = name;
+        _lastname = lastname;
+    }
+}
